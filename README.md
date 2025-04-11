@@ -45,6 +45,9 @@ Improve strategies in Brazil through better marketing and branding efforts.
 
 Partner with Amazon, the top revenue contributor, to analyze pricing and cost structures.
 
+
+https://app.powerbi.com/view?r=eyJrIjoiNTlhMmZiZmEtMzMxYS00ODNmLTljNGUtZjdmOWQ1ZDkzNzBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 Revise discount strategies for customer ‘NOVA’, ensuring a balance between profitability and sales growth.
 
  # Outcome & Learning
